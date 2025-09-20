@@ -27,17 +27,14 @@ This repository contains the source code for my **personal portfolio website**.
 ```
 my_portfolio/
 ├── assets/       # Images, icons, fonts, and other static files
-├── css/          # Stylesheets (CSS files)
-├── js/           # JavaScript functionality
 ├── index.html    # Main homepage
-├── about.html    # About page
-├── contact.html  # Contact page (if included)
+├── style.css     # Stylesheets
+├── utilty.css    # Stylesheets
+├── script.js     # JavaScript functionality
 └── README.md     # Documentation
 ```
 
-*(Adjust if your folder/file names differ.)*
 
----
 
 ## 🚀 Run Locally
 
