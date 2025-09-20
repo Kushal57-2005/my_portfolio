@@ -1,85 +1,60 @@
-# Kushal Waykole Portfolio
+# Personal Portfolio
 
-Welcome to my personal portfolio website! This website showcases my skills, projects, and contact information as a frontend developer.
-
----
-
-## 🔗 Live Demo
-[View Portfolio](https://your-github-username.github.io/your-repo-name/)
+This repository contains the source code for my **personal portfolio website**.  
+👉 [Live Demo](https://Kushal57-2005.github.io/my_portfolio/)
 
 ---
 
-## 💻 About Me
-Hi, I’m **Kushal Waykole**, a passionate Front-End Developer and Information Technology student.  
-I enjoy crafting **clean, responsive, and visually appealing websites** that deliver smooth user experiences.  
-Currently, I am pursuing my **B.E. in IT** at Nutan Maharashtra Institute of Engineering and Technology.  
-I am continuously learning modern web technologies and aim to become a full-stack developer in the near future.
+## ✨ Features
+
+- Responsive design for all screen sizes  
+- Modern and clean UI  
+- Smooth navigation across sections/pages  
+- Organized project structure with reusable assets  
 
 ---
 
-## 🛠 Skills
+## 🛠️ Skills Used
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
-- **Programming Languages:** C++  
-- **Database:** MySQL, PostgreSQL  
-- **Tools & Libraries:** Lottie animations, Boxicons  
-
----
-
-## 📂 Projects
-
-1. **Hex Code Generator**  
-   A simple project to generate random hex color codes with a clean UI.  
-   [View Project](https://kushal57-2005.github.io/hex-code-generator/)
-
-2. **Shortest Job First Scheduler**  
-   CPU scheduling algorithm implementation with visualization.  
-   [View Project](https://kushal57-2005.github.io/Shortest-Job-First--Non-Preemptive-/)
-
-> More projects coming soon!
+- **Frontend:** HTML, CSS, JavaScript  
+- **Styling:** CSS3 (Responsive Layouts, Flexbox/Grid)  
+- **Version Control:** Git & GitHub  
 
 ---
 
-## 🌙 Features
+## 📂 Project Structure
 
-- Responsive layout for desktop and mobile
-- Floating Action Button (FAB) menu on mobile for easy navigation
-- Light/Dark mode toggle with avatar change
-- Smooth scroll and fade-in animations
-- Interactive social media links
+```
+my_portfolio/
+├── assets/       # Images, icons, fonts, and other static files
+├── css/          # Stylesheets (CSS files)
+├── js/           # JavaScript functionality
+├── index.html    # Main homepage
+├── about.html    # About page
+├── contact.html  # Contact page (if included)
+└── README.md     # Documentation
+```
 
----
-
-## 📥 Download Resume
-
-[Download Resume](https://drive.google.com/file/d/1GUUqZQG4L8TQJANMF5cb0goitGCkBBuy/view)
-
----
-
-## 📫 Contact Me
-
-You can reach me via the contact form on the website or connect with me on social media:
-
-- [Instagram](https://www.instagram.com/kushal_waykole/)  
-- [LinkedIn](https://www.linkedin.com/in/kushalwaykole)  
-- [GitHub](https://github.com/Kushal57-2005)  
-- [Facebook](https://www.facebook.com/share/16VDCzSMwx/)
+*(Adjust if your folder/file names differ.)*
 
 ---
 
-## ⚡ Technologies Used
+## 🚀 Run Locally
 
-- HTML5  
-- CSS3 (Flexbox & Grid)  
-- JavaScript (ES6+)  
-- Bootstrap 5  
-- Boxicons  
-- Lottie Animations  
+To run this portfolio on your device:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/Kushal57-2005/my_portfolio.git
+   ```
+
+2. Navigate into the project folder  
+   ```bash
+   cd my_portfolio
+   ```
+
+3. Open the `index.html` file in your preferred browser.  
+   *(No server setup is required since this is a static website.)*
 
 ---
 
-## 📝 How to Run Locally
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/your-github-username/your-repo-name.git
